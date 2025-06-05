@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Your description">
+    <meta name="author" content="Your name">
+
+    <!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
+	<meta property="og:site_name" content="" /> <!-- website name -->
+	<meta property="og:site" content="" /> <!-- website link -->
+	<meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
+	<meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
+	<meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
+	<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
+	<meta name="twitter:card" content="summary_large_image"> <!-- to have large image post format in Twitter -->
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="./static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  
+    <!-- Styles -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link href="static/css/fontawesome-all.css" rel="stylesheet">
+    <link href="static/css/swiper.css" rel="stylesheet">
+	<link href="static/css/magnific-popup.css" rel="stylesheet">
+	<link href="static/css/styles.css" rel="stylesheet">
+	
+	<!-- Favicon  -->
+    <link rel="icon" href="static/images/favicon.png">
+    <style>
+        #resultsContainer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        
+        #resultsContainer h2 {
+            color: #343a40;
+            margin-bottom: 15px;
+        }
+        
+        #resultsContainer p {
+            margin-bottom: 10px;
+        }
+        
+        #resultsContainer pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background-color: #e9ecef;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        
+        .vulnerable-line {
+            background-color: #fff3cd;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+
+<bodydata-spy="scroll" data-target=".fixed-top">
+    
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg fixed-top navbar-light">
+      <div class="container">
+          
+          <!-- Text Logo - Use this if you don't have a graphic logo -->
+          <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Lomar</a> -->
+
+          <!-- Image Logo -->
+
+          <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+              <ul class="navbar-nav ml-auto">
+                  <li class="nav-item">
+                      <a class="nav-link page-scroll" href="/index">Home <span class="sr-only">(current)</span></a>
+                  </li>
+                  
+                  <li class="nav-item">
+                      <a class="nav-link page-scroll" href="/signout">Signout</a>
+                  </li>
+                  
+              </ul>
+          </div> <!-- end of navbar-collapse -->
+      </div> <!-- end of container -->
+  </nav> <!-- end of navbar -->
+  <!-- end of navigation -->
+   <!-- Header -->
+   <header class="ex-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-10 offset-xl-1">
+                    <h1 class="single-line">Software Vulnerability Prediction</h1>
+                    <style>
+                        .single-line {
+                            font-size: 3rem;
+                            line-height: 3.5rem;
+                            letter-spacing: -0.7px;
+                            white-space: nowrap;
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            width: 900px;
+                            height: 130px;
+                            margin-top: 90px;
+                        }
+                    </style>
+                    
+                </div> <!-- end of col -->
+               
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </header> <!-- end of ex-header -->
+    <!-- end of header -->
+    <div class="ex-basic-1 pt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-10 offset-xl-1">
+                    <div id="speechContainer">
+                        <h1>Upload new File</h1>
+                        <form method="post" action="/predict1" enctype="multipart/form-data">
+                            <input type="file" name="file" />
+                            <br><br>
+                            <div class="form-group">
+                                <label for="language">Select Language:</label>
+                                <select class="form-control" name="language" id="language" required>
+                                    <option value="" disabled selected>Select a language</option>
+                                    <option value="Python">Python</option>
+                                    <option value="CandCpp">C/C++</option>
+                                    <option value="Java">Java</option>
+                                    <option value="CSharp">C#</option>
+                                </select>
+                            </div>
+                            <style>
+                                .form-group {
+                                    margin: 15px 0;
+                                }
+                                .form-control {
+                                    display: block;
+                                    width: 100%;
+                                    padding: 8px 12px;
+                                    font-size: 16px;
+                                    line-height: 1.5;
+                                    color: #495057;
+                                    background-color: #fff;
+                                    background-clip: padding-box;
+                                    border: 1px solid #ced4da;
+                                    border-radius: 4px;
+                                    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+                                }
+                                .form-control:focus {
+                                    border-color: #80bdff;
+                                    outline: 0;
+                                    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+                                }
+                            </style>
+                            <br><br>
+                            <input type="submit" value="Analyze Code" />
+                        </form>
+                        <br><br>
+                        <br>
+                        <br>
+                                <p id="message" style="text-align:center;font-size: xx-large;color: black;"><strong>PREDICTION</strong></p>
+                                {% if prediction %}
+                                <!-- Add this inside the resultsContainer div where you show the prediction -->
+                                <div id="resultsContainer">
+                                    <h2>Vulnerability Analysis Results:</h2>
+                                    <p><strong>Severity:</strong> {{ prediction }}</p>
+                                    
+                                    {% if line_no and line_no != -1 %}
+                                        <p><strong>Vulnerability Location:</strong> Line {{ line_no }}</p>
+                                        {% if code_snippet %}
+                                            <p><strong>Vulnerable Code:</strong></p>
+                                            <pre style="background-color: #ffebee; padding: 10px; border-radius: 5px;"><code>{{ code_snippet }}</code></pre>
+                                        {% endif %}
+                                        
+                                        {% if full_code %}
+                                            <p><strong>Full Code Context:</strong></p>
+                                            <div style="max-height: 300px; overflow-y: auto; background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+                                                {% for i in range(full_code|length) %}
+                                                    {% if i+1 == line_no %}
+                                                        <div style="background-color: #ffebee; padding: 2px 5px; margin: 1px 0;">
+                                                            Line {{ i+1 }}: {{ full_code[i] }}
+                                                        </div>
+                                                    {% else %}
+                                                        <div style="padding: 2px 5px; margin: 1px 0;">
+                                                            Line {{ i+1 }}: {{ full_code[i] }}
+                                                        </div>
+                                                    {% endif %}
+                                                {% endfor %}
+                                            </div>
+                                        {% endif %}
+                                    {% else %}
+                                        <p><strong>Vulnerability Location:</strong> Not specified</p>
+                                    {% endif %}
+                                </div>
+                                {% endif %}
+                    </div>
+                    
+                    <br><br><br><br><br>
+                  </body>
+                  </html>
+                  
+                  
