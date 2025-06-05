@@ -1,0 +1,251 @@
+file_path,vul_id,line_no,severity,vul_name
+CWE114_Process_Control__w32_char_connect_socket_01.c,114,121,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_02.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_03.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_04.c,114,131,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_05.c,114,131,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_06.c,114,128,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_07.c,114,130,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_08.c,114,138,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_09.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_10.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_11.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_12.c,114,129,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_13.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_14.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_15.c,114,130,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_16.c,114,125,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_17.c,114,125,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_18.c,114,123,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_21.c,114,134,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_22a.c,114,41,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_31.c,114,124,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_32.c,114,129,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_33.cpp,114,127,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_34.c,114,131,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_41.c,114,51,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_42.c,114,127,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_43.cpp,114,129,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_44.c,114,51,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_45.c,114,55,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_51a.c,114,53,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_52a.c,114,53,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_53a.c,114,53,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_54a.c,114,53,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_61a.c,114,58,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_62a.cpp,114,41,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_63a.c,114,52,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_64a.c,114,55,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_65a.c,114,51,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_66a.c,114,53,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_67a.c,114,57,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_68a.c,114,57,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_72a.cpp,114,39,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_73a.cpp,114,39,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_74a.cpp,114,39,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_81.h,114,32,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_82.h,114,32,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_83.h,114,123,3,Process Control
+CWE114_Process_Control__w32_char_connect_socket_84.h,114,123,3,Process Control
+CWE114_Process_Control__w32_char_console_01.c,114,59,3,Process Control
+CWE114_Process_Control__w32_char_console_02.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_03.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_04.c,114,69,3,Process Control
+CWE114_Process_Control__w32_char_console_05.c,114,69,3,Process Control
+CWE114_Process_Control__w32_char_console_06.c,114,66,3,Process Control
+CWE114_Process_Control__w32_char_console_07.c,114,68,3,Process Control
+CWE114_Process_Control__w32_char_console_08.c,114,76,3,Process Control
+CWE114_Process_Control__w32_char_console_09.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_10.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_11.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_12.c,114,67,3,Process Control
+CWE114_Process_Control__w32_char_console_13.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_14.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_15.c,114,68,3,Process Control
+CWE114_Process_Control__w32_char_console_16.c,114,63,3,Process Control
+CWE114_Process_Control__w32_char_console_17.c,114,63,3,Process Control
+CWE114_Process_Control__w32_char_console_18.c,114,61,3,Process Control
+CWE114_Process_Control__w32_char_console_21.c,114,72,3,Process Control
+CWE114_Process_Control__w32_char_console_22a.c,114,41,3,Process Control
+CWE114_Process_Control__w32_char_console_31.c,114,62,3,Process Control
+CWE114_Process_Control__w32_char_console_32.c,114,67,3,Process Control
+CWE114_Process_Control__w32_char_console_33.cpp,114,65,3,Process Control
+CWE114_Process_Control__w32_char_console_34.c,114,69,3,Process Control
+CWE114_Process_Control__w32_char_console_41.c,114,31,3,Process Control
+CWE114_Process_Control__w32_char_console_42.c,114,65,3,Process Control
+CWE114_Process_Control__w32_char_console_43.cpp,114,67,3,Process Control
+CWE114_Process_Control__w32_char_console_44.c,114,31,3,Process Control
+CWE114_Process_Control__w32_char_console_45.c,114,35,3,Process Control
+CWE114_Process_Control__w32_char_console_51a.c,114,33,3,Process Control
+CWE114_Process_Control__w32_char_console_52a.c,114,33,3,Process Control
+CWE114_Process_Control__w32_char_console_53a.c,114,33,3,Process Control
+CWE114_Process_Control__w32_char_console_54a.c,114,33,3,Process Control
+CWE114_Process_Control__w32_char_console_61a.c,114,38,3,Process Control
+CWE114_Process_Control__w32_char_console_62a.cpp,114,41,3,Process Control
+CWE114_Process_Control__w32_char_console_63a.c,114,32,3,Process Control
+CWE252_Unchecked_Return_Value__wchar_t_fprintf_18.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_01.c,252,27,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_02.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_03.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_04.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_05.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_06.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_07.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_08.c,252,42,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_09.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_10.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_11.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_12.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_13.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_14.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_15.c,252,30,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_16.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_17.c,252,30,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputc_18.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_01.c,252,27,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_02.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_03.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_04.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_05.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_06.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_07.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_08.c,252,42,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_09.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_10.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_11.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_12.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_13.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_14.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_15.c,252,30,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_16.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_17.c,252,30,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fputs_18.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_01.c,252,32,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_02.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_03.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_04.c,252,40,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_05.c,252,40,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_06.c,252,39,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_07.c,252,39,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_08.c,252,47,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_09.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_10.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_11.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_12.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_13.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_14.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_15.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_16.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_17.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fread_18.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_01.c,252,32,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_02.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_03.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_04.c,252,40,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_05.c,252,40,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_06.c,252,39,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_07.c,252,39,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_08.c,252,47,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_09.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_10.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_11.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_12.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_13.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_14.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_15.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_16.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_17.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fscanf_18.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_01.c,252,27,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_02.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_03.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_04.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_05.c,252,35,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_06.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_07.c,252,34,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_08.c,252,42,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_09.c,252,29,2,Unchecked Return Value
+CWE252_Unchecked_Return_Value__wchar_t_fwrite_10.c,252,29,2,Unchecked Return Value
+CWE398_Poor_Code_Quality__addition_02.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_03.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_04.c,398,34,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_05.c,398,34,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_06.c,398,33,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_07.c,398,33,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_08.c,398,41,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_09.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_10.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_11.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_12.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_13.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_14.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_15.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_16.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_17.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__addition_18.c,398,28,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_01.c,398,23,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_02.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_03.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_04.c,398,31,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_05.c,398,31,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_06.c,398,30,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_07.c,398,30,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_08.c,398,38,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_09.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_10.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_11.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_12.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_13.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_14.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_15.c,398,23,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_16.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_17.c,398,26,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_block_18.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_01.c,398,27,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_02.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_03.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_04.c,398,35,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_05.c,398,35,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_06.c,398,34,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_07.c,398,34,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_08.c,398,42,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_09.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_10.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_11.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_12.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_13.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_14.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_15.c,398,30,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_16.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_17.c,398,30,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_case_18.c,398,29,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_01.c,398,30,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_02.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_03.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_04.c,398,38,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_05.c,398,38,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_06.c,398,37,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_07.c,398,37,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_08.c,398,45,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_09.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_10.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_11.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_12.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_13.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_14.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_15.c,398,33,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_16.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_17.c,398,33,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_else_18.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_01.c,398,25,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_02.c,398,27,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_03.c,398,27,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_04.c,398,33,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_05.c,398,33,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_06.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_07.c,398,32,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_08.c,398,40,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_09.c,398,27,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_10.c,398,27,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_11.c,398,27,1,Indicator of Poor Code Quality
+CWE398_Poor_Code_Quality__empty_for_12.c,398,27,1,Indicator of Poor Code Quality
