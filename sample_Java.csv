@@ -1,5 +1,4 @@
 file_path,vul_id,line_no,severity,vul_name
-CWE111_Unsafe_JNI__console_01.java,111,55,3,Direct Use of Unsafe JNI
 CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_01.java,113,33,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
 CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_02.java,113,49,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
 CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_03.java,113,34,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
@@ -13,239 +12,28 @@ CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_10.java,113,49,3,Im
 CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_11.java,113,49,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
 CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_12.java,113,34,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
 CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_13.java,113,49,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_14.java,113,49,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_15.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_16.java,113,45,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_17.java,113,38,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_21.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_22a.java,113,35,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_31.java,113,35,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_41.java,113,45,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_42.java,113,46,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_45.java,113,50,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_51a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_52a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_53a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_54a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_61a.java,113,35,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_66a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_67a.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_68a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_71a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_72a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_73a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_74a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_75a.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addCookieServlet_81_bad.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_01.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_02.java,113,34,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_03.java,113,34,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_04.java,113,53,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_05.java,113,53,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_06.java,113,39,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_07.java,113,39,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_08.java,113,47,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_09.java,113,46,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_10.java,113,46,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_11.java,113,46,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_12.java,113,34,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_13.java,113,46,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_14.java,113,46,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_15.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_16.java,113,35,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_17.java,113,38,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_21.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_22a.java,113,35,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_31.java,113,35,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_41.java,113,44,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_42.java,113,43,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_45.java,113,49,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_51a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_52a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_53a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_54a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_61a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_66a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_67a.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_68a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_71a.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_72a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_73a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_74a.java,113,32,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_75a.java,113,36,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_addHeaderServlet_81_bad.java,113,31,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_01.java,113,33,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_02.java,113,48,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_03.java,113,34,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_04.java,113,41,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_05.java,113,55,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_06.java,113,53,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_07.java,113,53,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_08.java,113,47,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE113_HTTP_Response_Splitting__Environment_setHeaderServlet_09.java,113,34,3,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')
-CWE134_Uncontrolled_Format_String__Environment_format_01.java,134,34,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_02.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_03.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_04.java,134,37,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_05.java,134,37,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_06.java,134,35,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_07.java,134,35,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_08.java,134,43,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_09.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_10.java,134,44,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_11.java,134,44,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_12.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_13.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_14.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_15.java,134,32,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_16.java,134,31,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_17.java,134,41,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_21.java,134,32,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_22a.java,134,33,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_31.java,134,41,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_41.java,134,40,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_42.java,134,41,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_45.java,134,45,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_51a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_52a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_53a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_54a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_61a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_66a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_67a.java,134,34,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_68a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_71a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_72a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_73a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_74a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_75a.java,134,34,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_format_81_bad.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_01.java,134,34,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_02.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_03.java,134,44,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_04.java,134,37,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_05.java,134,51,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_06.java,134,35,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_07.java,134,35,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_08.java,134,57,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_09.java,134,44,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_10.java,134,44,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_11.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_12.java,134,45,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_13.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_14.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_15.java,134,47,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_16.java,134,31,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_17.java,134,41,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_21.java,134,32,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_22a.java,134,33,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_31.java,134,41,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_41.java,134,40,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_42.java,134,41,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_45.java,134,45,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_51a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_52a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_53a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_54a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_61a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_66a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_67a.java,134,34,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_68a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_71a.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_72a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_73a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_74a.java,134,30,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_75a.java,134,34,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__Environment_printf_81_bad.java,134,29,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_01.java,134,52,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_02.java,134,51,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_03.java,134,110,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_04.java,134,117,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_05.java,134,58,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_06.java,134,56,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_07.java,134,115,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_08.java,134,64,1,Uncontrolled Format String
-CWE134_Uncontrolled_Format_String__File_format_09.java,134,51,1,Uncontrolled Format String
-CWE190_Integer_Overflow__int_random_square_74a.java,190,33,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_random_square_75a.java,190,37,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_random_square_81_bad.java,190,32,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_01.java,190,101,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_02.java,190,107,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_03.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_04.java,190,114,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_05.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_06.java,190,112,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_07.java,190,112,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_08.java,190,120,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_09.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_10.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_11.java,190,107,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_12.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_13.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_14.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_15.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_16.java,190,52,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_17.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_21.java,190,56,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_22a.java,190,57,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_31.java,190,108,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_41.java,190,63,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_42.java,190,108,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_45.java,190,68,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_51a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_52a.java,190,53,2,Integer Overflow or Wraparound
 CWE190_Integer_Overflow__int_URLConnection_add_53a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_54a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_61a.java,190,30,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_66a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_67a.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_68a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_71a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_72a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_73a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_74a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_75a.java,190,56,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_add_81_bad.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_01.java,190,103,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_02.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_03.java,190,109,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_04.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_05.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_06.java,190,56,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_07.java,190,56,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_08.java,190,64,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_09.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_10.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_11.java,190,109,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_12.java,190,110,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_13.java,190,109,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_14.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_15.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_16.java,190,52,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_17.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_21.java,190,56,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_22a.java,190,57,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_31.java,190,110,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_41.java,190,65,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_42.java,190,110,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_45.java,190,70,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_51a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_52a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_53a.java,190,53,2,Integer Overflow or Wraparound
 CWE190_Integer_Overflow__int_URLConnection_multiply_54a.java,190,53,2,Integer Overflow or Wraparound
 CWE190_Integer_Overflow__int_URLConnection_multiply_61a.java,190,32,2,Integer Overflow or Wraparound
 CWE190_Integer_Overflow__int_URLConnection_multiply_66a.java,190,53,2,Integer Overflow or Wraparound
 CWE190_Integer_Overflow__int_URLConnection_multiply_67a.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_68a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_71a.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_72a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_73a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_74a.java,190,54,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_75a.java,190,56,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_multiply_81_bad.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_square_01.java,190,53,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_square_02.java,190,107,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_square_03.java,190,51,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_square_04.java,190,58,2,Integer Overflow or Wraparound
-CWE190_Integer_Overflow__int_URLConnection_square_05.java,190,58,2,Integer Overflow or Wraparound
 CWE190_Integer_Overflow__int_URLConnection_square_06.java,190,112,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_07.java,190,56,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_08.java,190,64,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_09.java,190,51,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_10.java,190,51,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_73a.java,190,54,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_74a.java,190,54,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_75a.java,190,56,2,Integer Overflow or Wraparound
+CWE190_Integer_Overflow__int_URLConnection_square_81_bad.java,190,53,2,Integer Overflow or Wraparound
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,39,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,38,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,38,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,55,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,54,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,61,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,60,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,54,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,54,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,54,1,Detection of Error Condition Without Action
+CWE191_Integer_Underflow__int_getQueryString_Servlet_postdec_66a.java,390,54,1,Detection of Error Condition Without Action
